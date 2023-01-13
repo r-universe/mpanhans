@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "healthcare.antitrust"]
+	path = healthcare.antitrust
+	url = https://github.com/mpanhans/healthcare.antitrust
+	shallow = true
+	registered = true
